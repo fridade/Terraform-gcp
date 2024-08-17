@@ -1,0 +1,6 @@
+global_address_name   = "global-address"
+backend_service_name  = "backend-service"
+health_check_name     = "health-check"
+url_map_name          = "url-map"
+http_proxy_name       = "http-proxy"
+forwarding_rule_name  = "forwarding-rule"

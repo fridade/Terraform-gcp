@@ -1,0 +1,5 @@
+project_id      = "thinking-anthem-424503-b9"
+instance_name   = "main-instance"
+database_name   = "my-database"
+db_user         = "fritz"
+db_password     = "fritz@2"
